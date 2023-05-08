@@ -1,4 +1,4 @@
-FROM xhofe/alist:latest
+FROM xhofe/alist:main
 LABEL MAINTAINER="i@nn.ci"
 VOLUME /opt/alist/data/
 WORKDIR /opt/alist/
