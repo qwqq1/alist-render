@@ -1,1 +1,1 @@
-FROM xhofe/alist:latest
+FROM xhofe/alist:mian
